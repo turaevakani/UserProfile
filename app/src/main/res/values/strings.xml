@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_profile">USER PROFILE</string>
+    <string name="email_id">Email Id</string>
+    <string name="enter_email">enter email</string>
+    <string name="welcome_olivia">Welcome, Olivia</string>
+</resources>
